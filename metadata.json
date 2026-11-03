@@ -1,0 +1,6 @@
+{
+  "name": "Koneko Tube CMS",
+  "description": "High-contrast black and white video tube CMS with animated mascot logo, model bios, tag filtering, and personalized watch history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
